@@ -1,0 +1,13 @@
+.badge {
+    border-radius: 20px;
+    border: 1px solid var(--color-secondary);
+    color: var(--color-secondary);
+    background-color: white;
+    transition: .3s ease-in-out;
+}
+
+.badge:hover {
+    cursor: pointer;
+    background-color: var(--color-secondary);
+    color: white;
+}

@@ -1,0 +1,6 @@
+.hr-settings {
+    border: none;
+    height: 5px;
+    background-color: var(--color-secondary);
+    border-radius: 10px;
+}

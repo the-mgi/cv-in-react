@@ -1,0 +1,10 @@
+.innerDiv, .outer-colored {
+    border-radius: 30px;
+    height: 10px;
+    border: 1px solid #ddd7d7;
+}
+
+.outer-colored {
+    background-color: var(--color-secondary);
+    opacity: 80%;
+}
